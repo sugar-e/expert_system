@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="new">
+    <file>花朵.png</file>
+  </qresource>
+</RCC>

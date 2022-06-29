@@ -1,0 +1,6 @@
+IF season is spring AND type is arbor AND ( color is pink OR color is white ) THEN class1 
+IF season is spring AND type is arbor AND ( color isnot pink AND color isnot white ) THEN class2
+IF season is fall AND type is arbor AND color is yello THEN class3
+IF season is winter AND type is arbor THEN class4
+IF type is bush THEN class5
+IF type is herbal THEN class6
